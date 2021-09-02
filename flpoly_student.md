@@ -1,27 +1,27 @@
-## First Name Last Name
+## Joseph Williams
 
-### Term Year 
+### 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Precalc
 
-- Course 2
+- Introduction to python
 
-- Course 3
+- Cloud infrastructure
 
-- Course 4
+- Introduction to Data Science
 
 **Hobbies:**
 
-I am _passionate about_: 
+I am _passionate about_:
 
-- Thing 1
+- Making music
 
-- Thing 2
+- Playing games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Coding
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/02
