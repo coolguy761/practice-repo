@@ -4,13 +4,13 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Precalc
+- **MAC1147** _Precalculus_
 
-- Introduction to python
+- **COP2033** _Introduction to python_
 
-- Cloud infrastructure
+- **CTS2375** _Cloud Infastructure and Services_ 
 
-- Introduction to Data Science
+- **COP2073** _Introduction to Data Science_ 
 
 **Hobbies:**
 
