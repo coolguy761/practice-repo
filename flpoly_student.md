@@ -4,7 +4,11 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
+<<<<<<< HEAD
 - **MAC1147** _Precalculus_
+=======
+- Precalculus
+>>>>>>> 1cfdb05dcf3c306fd7c3ab466da58ac37ff10f1b
 
 - **COP2033** _Introduction to python_
 
@@ -24,4 +28,4 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2021/09/02
+> Last modified: 2021/09/15
