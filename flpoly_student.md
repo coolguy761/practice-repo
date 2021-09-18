@@ -4,19 +4,16 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-<<<<<<< HEAD
-- **MAC1147** _Precalculus_
-=======
-- Precalculus
->>>>>>> 1cfdb05dcf3c306fd7c3ab466da58ac37ff10f1b
 
-- **COP2033** _Introduction to python_
 
-- **CTS2375** _Cloud Infastructure and Services_ 
 
-- **COP2073** _Introduction to Data Science_ 
+| Code        | Number           | Subject  |
+| ------------- |:-------------:| -----:|
+| **MAC**| **1147** | _Precalculus_ |
+| **COP**     | **2073**      |    _Introduction to python_ |
+| **CTS** | **2375**      |    _Cloud Infastructure and Services_ |
 
-**Hobbies:**
+
 
 I am _passionate about_:
 
